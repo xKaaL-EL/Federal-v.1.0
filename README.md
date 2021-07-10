@@ -8,8 +8,8 @@
  +  Remove and modify customer's details.
  +  Able to display all information related to a customer.
  +  Able to Credit and Debit amount.
- +  Able to perform Account-to-Accont transactionS within multiple branches.
- +  Able to display the transactionS history of a customer.
+ +  Able to perform Account-to-Accont transactions within multiple branches.
+ +  Able to display the transactions history of a customer.
  
 
 
